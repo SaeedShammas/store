@@ -1,2 +1,46 @@
 [
+  {
+    "products": [
+        {
+            "id": 1,
+            "title": "product 1",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard",
+            "price": 50,
+            "quantity": 6,
+            "imgUrl": "../../assets/images/products/1.jpg",
+            "requiredQuantity": 2
+        },
+        {
+            "id": 2,
+            "title": "product 2",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard",
+            "price": 40,
+            "quantity": 1,
+            "imgUrl": "../../assets/images/products/2.jpg",
+            "requiredQuantity": 1
+        },
+        {
+            "id": 4,
+            "title": "product 4",
+            "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard",
+            "price": 90,
+            "quantity": 10,
+            "imgUrl": "../../assets/images/products/4.jpg",
+            "requiredQuantity": 3
+        }
+    ],
+    "total": 410,
+    "information": {
+        "firstName": "Saeed",
+        "lastName": "Alshammas",
+        "emailAddress": "saed.shammas10@gmail.com",
+        "phoneNumber": "797752843",
+        "address": {
+            "street": "Amman - Jordan",
+            "city": "amman",
+            "state": "00",
+            "zip": "00962"
+        }
+    }
+}
 ]
